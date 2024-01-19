@@ -1,1 +1,20 @@
-Agung : 100
+{
+  "gameDataList": [
+    {
+      "playerName": "fdsdsfds",
+      "score": 0
+    },
+    {
+      "playerName": "jj",
+      "score": 0
+    },
+    {
+      "playerName": "Doni",
+      "score": 0
+    },
+    {
+      "playerName": "rttr",
+      "score": 0
+    }
+  ]
+}
